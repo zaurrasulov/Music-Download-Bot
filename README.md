@@ -1,1 +1,2 @@
-# Music-Download-Bot
+# Music Download Bot
+This repository contains the bot code for downloading music.

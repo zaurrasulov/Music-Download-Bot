@@ -6,7 +6,7 @@ import re
 from PIL import Image
 import time
 
-Token = "1629831887:AAEFw7BCAgc5unKp2-xG7KDSCmD4cItfunw"
+Token = "YOUR TOKEN"
 bot = telebot.TeleBot(Token)
 
 
